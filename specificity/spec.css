@@ -1,0 +1,67 @@
+/* styles apply goes from up to down */
+/* h1 {
+    color: blue;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+h1{
+    color: brown;
+} */
+
+
+/* class selector has higher priority over  element tags selector  */
+/* .header {
+    color: blue;
+}
+
+h1{
+    color: brown;
+} */
+
+
+/* ID selector has higher prioprity over class and element tag selector */
+/* #head {
+    color: darkgoldenrod;
+}
+
+.header {
+    color: blue !important;
+}
+
+h1{
+    color: brown;
+} */
+
+
+
+
+/* Styling multiple class priority  */
+.header {
+    color: blue;
+}
+
+.active {
+    color: aquamarine;
+}
+
+h1.active {
+    color: deeppink;
+}
+
+
+
+
+
+/* LEVELS OF STYLE PRIORITY IN CSS 
+ !important
+ inline style
+ ID selector 
+ class selector  
+ Element tag selector */
+
+
+
+
