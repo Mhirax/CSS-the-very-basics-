@@ -1,8 +1,12 @@
 /* scenario 1  */
 button {
     /* margin: 50px;  */
-    padding:50px 20px 10px 5px;
+    padding:50px 20px 10px 0px;
     background-color: chocolate;
+    padding-top: 50px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 0px;
 } 
 
 /* h1 {
