@@ -1,6 +1,7 @@
 div {
     background-color: rgb(73, 66, 64);
     color: white;
-    width: 765px;
-    padding: 0px;
+    width: 100%;
+    /* padding: 100px 20px; */
+    margin: 20px;
 }
