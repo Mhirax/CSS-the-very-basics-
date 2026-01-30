@@ -1,11 +1,11 @@
-/* scenario 1 */
-/* button {
-    /* margin: 50px; */
-    /* padding:50px; */
-/* }  */
+/* scenario 1  */
+button {
+    /* margin: 50px;  */
+    padding:50px 20px;
+} 
 
-h1 {
+/* h1 {
     background-color: aquamarine;
     margin: 50px;
     padding: 50px;
-}
+} */
